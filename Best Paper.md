@@ -280,3 +280,192 @@
 - [ ] Pushing the Envelope: Planning, Propositional Logic, and Stochastic Search, 1996
 - [ ] Verification of Knowledge Bases Based on Containment Checking, 1996
 
+## CCS
+
+### Best Paper Awards
+
+- [ ] Victory by KO: Attacking OpenPGP Using Key Overwriting, 2022
+- [ ] Proving UNSAT in Zero Knowledge, 2022
+- [ ] Automatic Detection of Speculative Execution Combinations, 2022
+- [ ] Zapper: Smart Contracts with Data and Identity Privacy, 2022
+- [ ] STAR: Secret Sharing for Private Threshold Aggregation Reporting, 2022
+
+- [ ] XSinator.com: From a Formal Model to the Automatic Evaluation of Cross-Site Leaks in Web Browsers, 2021
+- [ ] One Glitch to Rule Them All: Fault Injection Attacks Against AMD’s Secure Encrypted Virtualization, 2021
+- [ ] On the Renyi Differential Privacy of the Shuffle Model, 2021
+- [ ] On the (In)Security of ElGamal in OpenPGP, 2021
+- [ ] V-Shuttle: Scalable and Semantics-Aware Hypervisor Virtual Device Fuzzing, 2021
+
+- [ ] DNS Cache Poisoning Attack Reloaded: Revolutions With Side Channels, 2020
+- [ ] Where Does It Go? Refining Indirect-Call Targets with Multi-layer Type Analysis, 2019
+
+- [ ] LEMNA: Explaining Deep Learning based Security Applications, 2018
+- [ ] Toward Detecting Violations of Differential Privacy, 2018
+- [ ] Scaling ORAM for Secure Computation, 2017
+- [ ] Better Bounds for Block Cipher Modes of Operation via Nonce-Based Key Derivation, 2017
+- [ ] DolphinAttack: Inaudible Voice Commands, 2017
+- [ ] Authenticated Garbling and Efficient Maliciously Secure Two-Party Computation, 2017
+- [ ] A Formal Foundation for Secure Remote Execution of Enclaves, 2017
+- [ ] A Surfeit of SSH Cipher Suites, 2016
+- [ ] A Systematic Analysis of the Juniper Dual EC Incident, 2016
+- [ ] High-Throughput Semi-Honest Secure Three-Party Computation with an Honest Majority, 2016
+- [ ] Imperfect Forward Secrecy: How Diffie-Hellman Fails In Practice, 2015
+- [ ] Guitar: Piecing Together Android App GUIs From Memory Images, 2015
+- [ ] Automated Analysis And Synthesis Of Authenticated Encryption Schemes, 2015
+- [ ] Private-by-Design Advertising Meets the Real World Alexey Reznichenko and Paul Francis, 2014
+- [ ] Code Reuse Attacks in PHP: Automated POP Chain Generation, 2014
+- [ ] Multi-ciphersuite security of the Secure Shell (SSH) protocol, 2014
+- [ ] FANCI: Identification of Stealthy Malicious Logic Using Boolean Functional Analysis, 2013
+- [ ] Path ORAM: An Extremely Simple Oblivious RAM Protocol, 2013
+- [ ] Security Analysis of Integrated Circuit Camouflaging, 2013
+
+### Best Paper Honorable Mention
+
+- [ ] CETIS: Retrofitting Intel CET for Generic and Efficient Intra-process Memory Isolation, 2022
+- [ ] When Good Becomes Evil: Tracking Bluetooth Low Energy Devices via Allowlist-based Side Channel and Its Countermeasure, 2022
+- [ ] Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications, 2022
+- [ ] T CHECKER : Precise Static Inter-Procedural Analysis for Detecting Taint-Style, 2022
+- [ ] NeVerMore: Exploiting RDMA Mistakes in NVMe-oF Storage Applications, 2022
+- [ ] Detecting Missing-Permission-Check Vulnerabilities in Distributed Cloud Systems, 2022
+- [ ] Hammurabi: A Framework for Pluggable, Logic-based X.509 Certificate Validation Policies, 2022
+- [ ] Why So Toxic? Measuring and Triggering Toxic Behavior in Open-Domain Chatbots, 2022
+- [ ] AI/ML for Network Security: The Emperor has no Clothes, 2022
+- [ ] CANflict: Exploiting Peripheral Conflicts for Data-Link Layer Attacks on Automotive Networks, 2022
+- [ ] MC2 : Rigorous and Efficient Directed Greybox Fuzzing, 2022
+- [ ] SpecPatch: Human-in-the-Loop Adversarial Audio Spectrogram Patch Attack on Speech Recognition, 2022
+- [ ] Blacktooth: Breaking through the Defense of Bluetooth in Silence, 2022
+- [ ] When Frodo Flips: End-to-End Key Recovery on FrodoKEM via Rowhammer, 2022
+- [ ] Order-Disorder: Imitation Adversarial Attacks for Black-box Neural Ranking Models, 2022
+
+- [ ] “I need a better description": An Investigation Into User Expectations For Differential Privacy, 2021
+- [ ] Hidden Backdoors in Human-Centric Language Models , 2021
+- [ ] Learning Security Classifiers with Verified Global Robustness Properties , 2021
+- [ ] QuickSilver: Efficient and Affordable Zero-Knowledge Proofs for Circuits and Polynomials over Any Field, 2021 
+- [ ] Asynchronous Data Dissemination and its Applications, 2021
+- [ ] CROSSLINE: Breaking ``Security-by-Crash'' based Memory Isolation in AMD SEV, 2021
+- [ ] On Reengineering the X.509 PKI with Executable Specification for Better Implementation Guarantees , 2021
+- [ ] BFT Protocol Forensics, 2021
+- [ ] DPGen: Automated Program Synthesis for Differential Privacy, 2021
+
+## S & P
+
+- [ ] Four Attacks and a Proof for Telegram, 2022 Distinguished Paper Award
+- [ ] Asleep at the Keyboard? Assessing the Security of GitHub Copilot’s Code Contributions, 2022 Distinguished Paper Award
+- [ ] Invisible Finger: Practical Electromagnetic Interference Attack on Touchscreen-based Electronic Devices, 2022 Distinguished Paper Award
+- [ ] Committed to Trust: A Qualitative Study on Security & Trust in Open Source Software Projects, 2022 Distinguished Paper Award
+- [ ] Compositional Security for Reentrant Applications, 2021 Best Paper Award
+- [ ] Hardware-Software Contracts for Secure Speculation, 2021 Best Paper Award
+
+- [ ] CrawlPhish: Large-scale Analysis of Client-side Cloaking Techniques in Phishing, 2021 Best Student Paper Award
+- [ ] They Would do Better if They Worked Together: The Case of Interaction Problems Between Password Managers and Websites, 2021 Best Student Paper Award
+- [ ] The EMV Standard: Break, Fix, Verify, 2021 Best Practical Paper Award
+- [ ] TRRespass: Exploiting the Many Sides of Target Row Refresh, 2020
+- [ ] An Analysis of Pre-installed Android Software, 2020 Best Practical Paper Award
+- [ ] Can Voters Detect Malicious Manipulation of Ballot Marking Devices? , 2020 Best Student Paper Award
+- [ ] Spectre Attacks: Exploiting Speculative Execution, 2019 Distinguished Paper Award
+- [ ] Exploiting Correcting Codes: On the Effectiveness of ECC Memory Against Rowhammer Attacks, 2019 Distinguished Practical Paper Award
+
+- [ ] DEEPSEC: Deciding Equivalence Properties in Security Protocols -- Theory and Practice, 2018 Distinguished Paper Award
+- [ ] On Enforcing the Digital Immunity of a Large Humanitarian Organization, 2018 Distinguished Paper Award
+- [ ] FPGA-Based Remote Power Side-Channel Attacks, 2018 Distinguished Practical Paper Award
+
+- [ ] Verified Models and Reference Implementations for the TLS 1.3 Standard Candidate, 2017 Distinguished Paper Award
+
+- [ ] Cloak and Dagger: From Two Permissions to Complete Control of the UI Feedback Loop, 2017 Distinguished Practical Paper Award
+
+- [ ] Towards Evaluating the Robustness of Neural Networks, 2017 Distinguished Student Paper Award
+
+- [ ] Security Analysis of Emerging Smart Home Applications, 2016 Distinguished Practical Paper
+
+- [ ] Verifiable ASICs, 2016 Distinguished Student Paper
+- [ ] pASSWORD tYPOS and How to Correct Them Securely, 2016 Distinguished Student Paper
+
+- [ ] A2: Analog Malicious Hardware, 2016 Distingushed Paper
+
+- [ ] A Messy State of the Union: Taming the Composite State Machines of TLS, 2015 Distinguished Papers
+- [ ] Riposte: An Anonymous Messaging System Handling Millions of Users, 2015 Distinguished Papers
+
+- [ ] Ad Injection at Scale: Assessing Deceptive Advertisement Modifications, 2015 Distinguished Practical Paper
+
+- [ ] GenoGuard: Protecting Genomic Data Against Brute-Force Attacks, 2015 Distinguished Student Paper Award
+
+- [ ] Secure Multiparty Computations on Bitcoin
+
+- [ ] Using Frankencerts for Automated Adversarial Testing of Certificate Validation in SSL/TLS Implementations, 2014 Best Practical Paper
+
+- [ ] Framing Signals — A Return to Portable Shellcode, 2014 Best Student Papers
+
+- [ ] Bootstrapping Privacy Compliance in Big Data Systems, 2014 Best Student Papers
+
+## USENIX Security
+
+- [ ] Provably-Safe Multilingual Software Sandboxing using WebAssembly, 2022
+- [ ] An Audit of Facebook's Political Ad Policy Enforcement, 2022
+- [ ] Private Signaling, 2022
+- [ ] Faster Yet Safer: Logging System Via Fixed-Key Blockcipher, 2022
+- [ ] Online Website Fingerprinting: Evaluating Website Fingerprinting Attacks on Tor in the Real World, 2022
+- [ ] Dos and Don'ts of Machine Learning in Computer Security, 2022
+- [ ] OpenVPN is Open to VPN Fingerprinting, 2022
+- [ ] FIXREVERTER: A Realistic Bug Injection Methodology for Benchmarking Fuzz Testing, 2022
+- [ ] Attacks on Deidentification's Defenses, 2022
+- [ ] Augmenting Decompiler Output with Learned Variable Names and Types, 2022
+- [ ] The Antrim County 2020 Election Incident: An Independent Forensic Investigation, 2022
+- [ ] Identity Confusion in WebView-based Mobile App-in-app Ecosystems, 2022
+
+- [ ] "It's stressful having all these phones": Investigating Sex Workers' Safety Goals, Risks, and Practices Online, 2021
+- [ ] Poisoning the Unlabeled Dataset of Semi-Supervised Learning, 2021
+- [ ] You Autocomplete Me: Poisoning Vulnerabilities in Neural Code Completion, 2021
+- [ ] "Why wouldn't someone think of democracy as a target?": Security practices & challenges of people involved with U.S. political campaigns, 2021
+- [ ] An Analysis of Speculative Type Confusion Vulnerabilities in the Wild, 2021
+- [ ] Weaponizing Middleboxes for TCP Reflected Amplification, 2021
+- [ ] Rage Against the Machine Clear: A Systematic Analysis of Machine Clears and Their Implications for Transient Execution Attacks, 2021
+
+- [ ] Retrofitting Fine Grain Isolation in the Firefox Renderer, 2020
+- [ ] Pancake: Frequency Smoothing for Encrypted Data Stores, 2020
+- [ ] Composition Kills: A Case Study of Email Sender Authentication, 2020
+- [ ] The Tools and Tactics Used in Intimate Partner Surveillance: An Analysis of Online Infidelity Forums, 2020
+- [ ] Symbolic execution with SymCC: Don't interpret, compile!, 2020
+- [ ] The Unpatchable Silicon: A Full Break of the Bitstream Encryption of Xilinx 7-Series FPGAs, 2020
+- [ ] Who's Calling? Characterizing Robocalls through Audio and Metadata Analysis, 2020
+- [ ] Understanding security mistakes developers make: Qualitative analysis from Build It, Break It, Fix It, 2020
+- [ ] Datalog Disassembly, 2020
+- [ ] Symbolic execution with SymCC: Don't interpret, compile!, 2020
+- [ ] The Unpatchable Silicon: A Full Break of the Bitstream Encryption of Xilinx 7-Series FPGAs, 2020
+
+- [ ] Computer Security and Privacy in the Interactions Between Victim Service Providers and Human Trafficking Survivors, 2019
+- [ ] Users Really Do Answer Telephone Scams, 2019
+- [ ] Detecting and Characterizing Lateral Phishing at Scale, 2019
+- [ ] ERIM: Secure, Efficient In-process Isolation with Protection Keys (MPK), 2019
+- [ ] Software Systems, Saarland Informatics Campus, 2019
+- [ ] Protecting accounts from credential stuffing with password breach alerting, 2019
+
+- [ ] Fear the Reaper: Characterization and Fast Detection of Card Skimmers, 2018
+- [ ] Who Left Open the Cookie Jar? A Comprehensive Evaluation of Third-Party Cookie Policies, 2018
+- [ ] The Battle for New York: A Case Study of Applied Digital Threat Modeling at the Enterprise Level, 2018
+- [ ] NAVEX: Precise and Scalable Exploit Generation for Dynamic Web Applications, 2018
+- [ ] QSYM : A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing, 2018
+
+- [ ] Detecting Credential Spearphishing in Enterprise Settings, 2017
+- [ ] MPI: Multiple Perspective Attack Investigation with Semantic Aware Execution Partitioning, 2017
+- [ ] CLKSCREW: Exposing the Perils of Security-Oblivious Energy Management, 2017
+- [ ] Detecting Credential Spearphishing in Enterprise Settings, 2017
+- [ ] MPI: Multiple Perspective Attack Investigation with Semantic Aware Execution Partitioning, 2017
+- [ ] Vale: Verifying High-Performance Cryptographic Assembly Code, 2017
+
+- [ ] Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks, 2016
+
+- [ ] The Million-Key Question—Investigating the Origins of RSA Public Keys, 2016
+
+- [ ] ZKBoo: Faster Zero-Knowledge for Boolean Circuits, 2016
+
+- [ ] Under-Constrained Symbolic Execution: Correctness Checking for Real Code, 2015
+- [ ] All Your Biases Belong to Us: Breaking RC4 in WPA-TKIP and TLS, 2015
+
+- [ ] Privacy in Pharmacogenetics: An End-to-End Case Study of Personalized Warfarin Dosing, 2014
+- [ ] DSCRETE: Automatic Rendering of Forensic Information from Memory Images via Application Logic Reuse, 2014
+- [ ] Automatically Detecting Vulnerable Websites Before They Turn Malicious, 2014
+- [ ] Copysets: Reducing the Frequency of Data Loss in Cloud Storage, 2013
+- [ ] I/O Stack Optimization for Smartphones, 2013
+
+- [ ] Social Networking with Frientegrity: Privacy and Integrity with an Untrusted Provider, 2012
+- [ ] Mining Your Ps and Qs: Detection of Widespread Weak Keys in Network Devices, 2012
