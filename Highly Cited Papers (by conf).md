@@ -385,6 +385,169 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 - [ ] Separating Fact from Fear: Tracking Flu Infections on Twitter.
 141	2013
 
+## ENNLP
+- [ ] Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks 2019
+- [ ] Supervised Learning of Universal Sentence Representations from Natural Language Inference Data 2017
+- [ ] Adversarial Examples for Evaluating Reading Comprehension Systems 2017
+- [ ] Transformers: State-of-the-Art Natural Language Processing. 2020
+- [ ] Language Models as Knowledge Bases? 2019
+- [ ] Dense Passage Retrieval for Open-Domain Question Answering 2019
+- [ ] Glove: Global Vectors for Word Representation. 2014
+- [ ] SQuAD: 100,000+ Questions for Machine Comprehension of Text 2016
+- [ ] Effective Approaches to Attention-based Neural Machine Translation 2015
+- [ ] Dense Passage Retrieval for Open-Domain Question Answering 2020
+- [ ] TinyBERT: Distilling BERT for Natural Language Understanding 2020
+- [ ] SciBERT: A Pretrained Language Model for Scientific Text 2019
+- [ ] LXMERT: Learning Cross-Modality Encoder Representations from Transformers 2019
+- [ ] EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks 2019
+- [ ] HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering 2018
+- [ ] Text Summarization with Pretrained Encoders 2019
+- [ ] Understanding Back-Translation at Scale 2018
+- [ ] RACE: Large-scale ReAding Comprehension Dataset From Examinations 20117
+- [ ] End-to-end Neural Coreference Resolution 2017
+- [ ] Universal Sentence Encoder for English. 2018
+- [ ] Attention-based LSTM for Aspect-level Sentiment Classification 2016
+- [ ] Deep Reinforcement Learning for Dialogue Generation 2016
+- [ ] How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation 2016
+- [ ] Long Short-Term Memory-Networks for Machine Reading 2016
+
+
+## AAAI
+- [ ] Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning 2017
+- [ ] Regularized Evolution for Image Classifier Architecture Search 2019
+- [ ] Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition 2018
+- [ ] SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient 2017
+- [ ] Random Erasing Data Augmentation 2020
+- [ ] Rainbow: Combining Improvements in Deep Reinforcement Learning 2018
+- [ ] Deep Reinforcement Learning That Matters 2018
+- [ ] ConceptNet 5.5: An Open Multilingual Graph of General Knowledge 2017
+- [ ] Deeper Insights Into Graph Convolutional Networks for Semi-Supervised Learning 2018
+- [ ] Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction 2017
+- [ ] Convolutional 2D Knowledge Graph Embeddings 2018
+- [ ] Anchors: High-Precision Model-Agnostic Explanations 2018
+- [ ] Counterfactual Multi-Agent Policy Gradients 2018
+- [ ] CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison 2019
+- [ ] SummaRuNNer: A Recurrent Neural Network Based Sequence Model for Extractive Summarization of Documents 2017
+- [ ] A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues 2017
+- [ ] Graph Convolutional Networks for Text Classification 2019
+- [ ] An End-to-End Deep Learning Architecture for Graph Classification 2018
+- [ ] FiLM: Visual Reasoning with a General Conditioning Layer 2018
+- [ ] The Option-Critic Architecture 2017
+- [ ] Character-aware neural language models 2016
+- [ ] Learning entity and relation embeddings for knowledge graph completion 2015
+- [ ] Knowledge graph embedding by translating on hyperplanes 2014
+
+
+## NIPS
+- [ ] Attention is all you need 2017
+- [ ] PyTorch: an imperative style, high-performance deep learning library 2019
+- [ ] A unified approach to interpreting model predictions 2017
+- [ ] Improved training of wasserstein GANs 2017
+- [ ] Inductive representation learning on large graphs 2017
+- [ ] PointNet++ deep hierarchical feature learning on point sets in a metric space 2017
+- [ ] GANs trained by a two time-scale update rule converge to a local nash equilibrium 2017
+- [ ] XLNet: generalized autoregressive pretraining for language understanding 2019
+- [ ] LightGBM: a highly efficient gradient boosting decision tree 2017
+- [ ] Prototypical networks for few-shot learning
+- [ ] Language models are few-shot learners 2020
+- [ ] Dynamic routing between capsules 2017
+- [ ] What uncertainties do we need in Bayesian deep learning for computer vision? 2017
+- [ ] Simple and scalable predictive uncertainty estimation using deep ensembles 2017
+- [ ] Multi-agent actor-critic for mixed cooperative-competitive environments 2017
+- [ ] Unsupervised image-to-image translation networks 2017
+- [ ] Neural ordinary differential equations 2018
+- [ ] Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results 2017
+- [ ] Self-normalizing neural networks 2017
+- [ ] Glow: generative flow with invertible 1× 1 convolutions 2018
+- [ ] Faster R-CNN: towards real-time object detection with region proposal networks 2015
+- [ ] Improved training of wasserstein GANs 2017
+- [ ] Spatial transformer networks 2015
+- [ ] R-FCN: object detection via region-based fully convolutional networks 2016
+- [ ] Learning both weights and connections for efficient neural networks 2015
+
+## SIGIR
+- [ ] Neural Graph Collaborative Filterings 2019
+- [ ] Neural Factorization Machines for Sparse Predictive Analytics 2017
+- [ ] Modeling Long-and Short-Term Temporal Patterns with Deep Neural Networks 2018
+- [ ] LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation 2020
+- [ ] Attentive Collaborative Filtering: Multimedia Recommendation with Item-and Component-Level Attention 2017
+- [ ] Neural Approaches to Conversational AI 2018
+- [ ] IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models 2017
+- [ ] Deep Learning for Extreme Multi-label Text Classification 2017
+- [ ] End-to-End Neural Ad-hoc Ranking with Kernel Pooling 2017
+- [ ] Neural Ranking Models with Weak Supervision 2017
+- [ ] ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT 2020
+- [ ] Improving Sequential Recommendation with Knowledge-Enhanced Memory Networks 2018
+- [ ] Texygen: A Benchmarking Platform for Text Generation Models 2018
+- [ ] Equity of Attention: Amortizing Individual Fairness in Rankings 2018
+- [ ] Adversarial Personalized Ranking for Recommendation 2018
+- [ ] Deeper Text Understanding for IR with Contextual Neural Language Modeling 2019
+- [ ] Anserini: Enabling the Use of Lucene for Information Retrieval Research 2017
+- [ ] Conversational Recommender System 2018
+- [ ] CEDR: Contextualized Embeddings for Document Ranking 2019
+- [ ] Collaborative Memory Network for Recommendation Systems 2018
+
+
+## WSDM
+- [ ] Joint Deep Modeling of Users and Items Using Reviews for Recommendation 2017
+- [ ] Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding 2018
+- [ ] Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and node2vec 2018
+- [ ] Recurrent Recommender Networks 2017
+- [ ] Motifs in Temporal Networks 2017
+- [ ] Demographics and Dynamics of Mechanical Turk Workers 2018
+- [ ] Label Informed Attributed Network Embedding 2017
+- [ ] Beyond News Contents: The Role of Social Context for Fake News Detection 2019
+- [ ] Sequential Recommendation with User Memory Networks 2018
+- [ ] Unbiased Learning-to-Rank with Biased Feedback 2017
+- [ ] Knowledge Graph Embedding Based Question Answering 2019
+- [ ] Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution 2018
+- [ ] Convolutional Neural Networks for Soft-Matching N-Grams in Ad-hoc Search 2018
+- [ ] Top-K Off-Policy Correction for a REINFORCE Recommender System 2019
+- [ ] Tracing Fake-News Footprints: Characterizing Social Media Messages by How They Propagate 2018
+- [ ] Latent Cross: Making Use of Context in Recurrent Recommender Systems 2018
+- [ ] SHINE: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction 2018
+- [ ] Session-Based Social Recommendation via Dynamic Graph Attention Networks 2019
+- [ ] Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction 2018
+- [ ] A Simple Convolutional Generative Network for Next Item Recommendation 2019
+- [ ] Exploring the Space of Topic Coherence Measures 2015
+- [ ] Collaborative Denoising Auto-Encoders for Top-N Recommender Systems 2016
+- [ ] Overlapping community detection at scale: a nonnegative matrix factorization approach 2013
+- [ ] Exploiting social relations for sentiment analysis in microblogging 2013
+- [ ] Using early view patterns to predict the popularity of youtube videos 2013
+- [ ] Structure and dynamics of information pathways in online media 2013
+
+## KDD
+- [ ] Graph Convolutional Neural Networks for Web-Scale Recommender Systems 2018
+- [ ] metapath2vec: Scalable Representation Learning for Heterogeneous Networks 2017
+- [ ] Optuna: A Next-generation Hyperparameter Optimization Framework 2019
+- [ ] struc2vec: Learning Node Representations from Structural Identity 2017
+- [ ] Algorithmic Decision Making and the Cost of Fairness 2017
+- [ ] Anomaly Detection with Robust Deep Autoencoders 2017
+- [ ] Deep Interest Network for Click-Through Rate Prediction 2018
+- [ ] KGAT: Knowledge Graph Attention Network for Recommendation 2019
+- [ ] Google Vizier: A Service for Black-Box Optimization 2017
+- [ ] Adversarial Attacks on Neural Networks for Graph Data 2018
+- [ ] xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems 2018
+- [ ] Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks 2019
+- [ ] Auto-Keras: An Efficient Neural Architecture Search System 2019
+- [ ] Heterogeneous Graph Neural Network 2O19
+- [ ] STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation 2018
+- [ ] GRAM: Graph-based Attention Model for Healthcare Representation Learning 2017
+- [ ] EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection 2018
+- [ ] Local Higher-Order Graph Clustering 2017
+- [ ] Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding 2018
+- [ ] Patient Subtyping via Time-Aware LSTM Networks 2017
+- [ ] XGBoost: A Scalable Tree Boosting System 2016
+- [ ] DeepWalk: online learning of social representations 2014
+- [ ] Knowledge vault: a web-scale approach to probabilistic knowledge fusion 2014
+- [ ] node2vec: Scalable Feature Learning for Networks 2016
+- [ ] Why Should I Trust You?: Explaining the Predictions of Any Classifier 2016
+- [ ] U-Air: when urban air quality inference meets big data 2013
+- [ ] Auto-WEKA: combined selection and hyperparameter optimization of classification algorithms 2013
+- [ ] Collaborative Deep Learning for Recommender Systems 2015
+
+
+
 ## ACM CCS
 
 ### 2022
