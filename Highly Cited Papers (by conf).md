@@ -409,7 +409,7 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 - [ ] MultiWOZ-A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling 2018
 - [ ] TinyBERT: Distilling BERT for Natural Language Understanding. 2020
 
-### 2012-2017 top-10
+### 2012-2017 top-20
 - [ ] Glove: Global Vectors for Word Representation. 2014
 - [ ] Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation. 2014
 - [ ] Convolutional Neural Networks for Sentence Classification. 2014
@@ -432,7 +432,8 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 - [ ] Question Answering with Subgraph Embeddings. 2014
 
 
-## AAAI
+## AAAI 
+### 2017-2022 top 20
 - [ ] Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning 2017
 - [ ] Regularized Evolution for Image Classifier Architecture Search 2019
 - [ ] Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition 2018
@@ -453,9 +454,27 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 - [ ] An End-to-End Deep Learning Architecture for Graph Classification 2018
 - [ ] FiLM: Visual Reasoning with a General Conditioning Layer 2018
 - [ ] The Option-Critic Architecture 2017
+
+### 2012-2017 top 20
 - [ ] Character-aware neural language models 2016
+- [ ] Deep reinforcement learning with double Q-Learning 2016
 - [ ] Learning entity and relation embeddings for knowledge graph completion 2015
 - [ ] Knowledge graph embedding by translating on hyperplanes 2014
+- [ ] Building end-to-end dialogue systems using generative hierarchical neural network models 2016
+- [ ] Recurrent convolutional neural networks for text classification 2015
+- [ ] Supervised hashing for image retrieval via image representation learning 2014
+- [ ] Never-ending learning 2015
+- [ ] SenticNet 3: a common and common-sense knowledge base for cognition-driven sentiment analysis 2014
+- [ ] SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient. 2017
+- [ ] The network data repository with interactive graph analytics and visualization 2015
+- [ ] Surpassing human-level face verification performance on LFW with gaussian face 2015
+- [ ] Robust image sentiment analysis using progressively trained and domain transferred deep networks 2015
+- [ ] Return of frustratingly easy domain adaptation 2016
+- [ ] Content-aware point of interest recommendation on location-based social networks 2015
+- [ ] Large-scale supervised multimodal hashing with semantic correlation maximization 2014
+- [ ] Co-occurrence feature learning for skeleton based action recognition using regularized deep LSTM networks 2016
+- [ ] TrustSVD: collaborative filtering with both the explicit and implicit influence of user trust and of item ratings 2015
+- [ ] Topical word embeddings 2015
 
 
 ## NIPS
@@ -479,11 +498,29 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 - [ ] Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results 2017
 - [ ] Self-normalizing neural networks 2017
 - [ ] Glow: generative flow with invertible 1× 1 convolutions 2018
+
+### 2012-2017 top-20
+
+- [ ] ImageNet classification with deep convolutional neural networks 2012
+- [ ] Distributed representations of words and phrases and their compositionality 2013
+- [ ] Sequence to sequence learning with neural networks 2014
 - [ ] Faster R-CNN: towards real-time object detection with region proposal networks 2015
-- [ ] Improved training of wasserstein GANs 2017
-- [ ] Spatial transformer networks 2015
-- [ ] R-FCN: object detection via region-based fully convolutional networks 2016
-- [ ] Learning both weights and connections for efficient neural networks 2015
+- [ ] Large scale distributed deep networks 2012
+- [ ] Generative adversarial nets 2014
+- [ ] Practical Bayesian optimization of machine learning algorithms 2012
+- [ ] Learning deep features for scene recognition using places database 2014
+- [ ] Two-stream convolutional networks for action recognition in videos 2014
+- [ ] Learning to discover social circles in ego networks 2012
+- [ ] How transferable are features in deep neural networks? 2014
+- [ ] Multimodal learning with Deep Boltzmann Machines 2012
+- [ ] Accelerating stochastic gradient descent using predictive variance reduction 2013
+- [ ] DeViSE: a deep visual-semantic embedding model 2013
+- [ ] Reasoning with neural tensor networks for knowledge base completion 2013
+- [ ] Deep neural networks segment neuronal membranes in electron microscopy images 2012
+- [ ] Recurrent models of visual attention 2014
+- [ ] Neural word embedding as implicit matrix factorization 2014
+- [ ] Deep neural networks for object detection 2013
+- [ ] Translating embeddings for modeling multi-relational data 2013
 
 ## SIGIR
 - [ ] Neural Graph Collaborative Filterings 2019
