@@ -386,7 +386,7 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 141	2013
 
 ## ENNLP
-### 2017-2022 top-20
+### [2017-2022](https://scholar.google.com/citations?hl=en&vq=eng_computationallinguistics&view_op=list_hcore&venue=LqrQjvOguiMJ.2022) top-20
 - [ ] Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks 2019
 - [ ] Supervised Learning of Universal Sentence Representations from Natural Language Inference Data 2017
 - [ ] SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing. 2018
@@ -409,7 +409,7 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 - [ ] MultiWOZ-A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling 2018
 - [ ] TinyBERT: Distilling BERT for Natural Language Understanding. 2020
 
-### 2012-2017 top-20
+### [2012-2017](https://scholar.google.com/citations?hl=en&vq=eng_computationallinguistics&view_op=list_hcore&venue=LqrQjvOguiMJ.2017) top-20
 - [ ] Glove: Global Vectors for Word Representation. 2014
 - [ ] Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation. 2014
 - [ ] Convolutional Neural Networks for Sentence Classification. 2014
@@ -433,7 +433,7 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 
 
 ## AAAI 
-### 2017-2022 top 20
+### [2017-2022](https://scholar.google.com/citations?hl=en&vq=eng_artificialintelligence&view_op=list_hcore&venue=PV9sQN5dnPsJ.2022) top 20
 - [ ] Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning 2017
 - [ ] Regularized Evolution for Image Classifier Architecture Search 2019
 - [ ] Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition 2018
@@ -455,7 +455,7 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 - [ ] FiLM: Visual Reasoning with a General Conditioning Layer 2018
 - [ ] The Option-Critic Architecture 2017
 
-### 2012-2017 top 20
+### [2012-2017](https://scholar.google.com/citations?hl=en&vq=eng_artificialintelligence&view_op=list_hcore&venue=PV9sQN5dnPsJ.2018) top 20
 - [ ] Character-aware neural language models 2016
 - [ ] Deep reinforcement learning with double Q-Learning 2016
 - [ ] Learning entity and relation embeddings for knowledge graph completion 2015
@@ -478,7 +478,7 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 
 
 ## NIPS
-### 2017-2022 top 20
+### [2017-2022](https://scholar.google.com/citations?hl=en&vq=eng_artificialintelligence&view_op=list_hcore&venue=eqYFflc_uhEJ.2022) top 20
 - [ ] Attention is all you need 2017
 - [ ] PyTorch: an imperative style, high-performance deep learning library 2019
 - [ ] A unified approach to interpreting model predictions 2017
@@ -500,7 +500,7 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 - [ ] Self-normalizing neural networks 2017
 - [ ] Glow: generative flow with invertible 1× 1 convolutions 2018
 
-### 2012-2017 top-20
+### [2012-2017](https://scholar.google.com/citations?hl=en&vq=eng_artificialintelligence&view_op=list_hcore&venue=eqYFflc_uhEJ.2017) top-20
 
 - [ ] ImageNet classification with deep convolutional neural networks 2012
 - [ ] Distributed representations of words and phrases and their compositionality 2013
@@ -524,6 +524,7 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 - [ ] Translating embeddings for modeling multi-relational data 2013
 
 ## SIGIR
+### [2017-2022](https://scholar.google.com/citations?hl=en&vq=eng_databasesinformationsystems&view_op=list_hcore&venue=Gf4FWVmkfbwJ.2022) top 20
 - [ ] Neural Graph Collaborative Filterings 2019
 - [ ] Neural Factorization Machines for Sparse Predictive Analytics 2017
 - [ ] Modeling Long-and Short-Term Temporal Patterns with Deep Neural Networks 2018
@@ -545,8 +546,31 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 - [ ] CEDR: Contextualized Embeddings for Document Ranking 2019
 - [ ] Collaborative Memory Network for Recommendation Systems 2018
 
+### [2012-2017](https://scholar.google.com/citations?hl=en&vq=eng_databasesinformationsystems&view_op=list_hcore&venue=Gf4FWVmkfbwJ.2017) top 20
+- [ ] Time-aware point-of-interest recommendation 2013
+- [ ] Collaborative personalized tweet recommendation 2012
+- [ ] TwiNER: named entity recognition in targeted twitter stream 2012
+- [ ] Modeling the impact of short-and long-term behavior on search personalization 2012
+- [ ] Improving LDA topic models for microblogs via tweet pooling and automatic labeling 2013
+- [ ] Cognos: crowdsourcing search for topic experts in microblogs 2012
+- [ ] Exploring social influence for recommendation: a generative model approach 2012
+- [ ] TFMAP: optimizing MAP for top-n context-aware recommendation 2012
+- [ ] Quality through flow and immersion: gamifying crowdsourced relevance assessments 2012
+- [ ] Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks 2015
+- [ ] Time-based calibration of effectiveness measures 2012
+- [ ] Image-Based Recommendations on Styles and Substitutes 2015
+- [ ] Time-sensitive query auto-completion 2012
+- [ ] Explicit factor models for explainable recommendation based on phrase-level sentiment analysis 2014
+- [ ] Diversity by proportionality: an election-based approach to search result diversification 2012
+- [ ] Emerging topic detection for organizations from microblogs 2013
+- [ ] Opportunity model for e-commerce recommendation: right product; right time 2013
+- [ ] An experimental study on implicit social recommendation 2013
+- [ ] Addressing cold-start in app recommendation: latent user models constructed from twitter followers 2013
+- [ ] Learning to personalize query auto-completion 2013
+
 
 ## WSDM
+### [2017-2022](https://scholar.google.com/citations?hl=en&vq=eng_databasesinformationsystems&view_op=list_hcore&venue=6AbX1YWluE4J.2022) top 20
 - [ ] Joint Deep Modeling of Users and Items Using Reviews for Recommendation 2017
 - [ ] Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding 2018
 - [ ] Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and node2vec 2018
@@ -567,6 +591,8 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 - [ ] Session-Based Social Recommendation via Dynamic Graph Attention Networks 2019
 - [ ] Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction 2018
 - [ ] A Simple Convolutional Generative Network for Next Item Recommendation 2019
+
+### [2012-2017](https://scholar.google.com/citations?hl=en&vq=eng_databasesinformationsystems&view_op=list_hcore&venue=6AbX1YWluE4J.2017) top 20
 - [ ] Exploring the Space of Topic Coherence Measures 2015
 - [ ] Collaborative Denoising Auto-Encoders for Top-N Recommender Systems 2016
 - [ ] Overlapping community detection at scale: a nonnegative matrix factorization approach 2013
@@ -575,7 +601,7 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 - [ ] Structure and dynamics of information pathways in online media 2013
 
 ## KDD
-### 2017-2022 top 20
+### [2017-2022](https://scholar.google.com/citations?hl=en&vq=eng_datamininganalysis&view_op=list_hcore&venue=DxPOk84pRIIJ.2022) top 20
 - [ ] Graph Convolutional Neural Networks for Web-Scale Recommender Systems 2018
 - [ ] metapath2vec: Scalable Representation Learning for Heterogeneous Networks 2017
 - [ ] Optuna: A Next-generation Hyperparameter Optimization Framework 2019
@@ -597,7 +623,7 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 - [ ] Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding 2018
 - [ ] Patient Subtyping via Time-Aware LSTM Networks 2017
  
- ### 2012-2017 top-20
+ ### [2012-2017](https://scholar.google.com/citations?hl=en&vq=eng_datamininganalysis&view_op=list_hcore&venue=DxPOk84pRIIJ.2017) top-20
 - [ ] Discovering regions of different functions in a city using human mobility and POIs 2012
 - [ ] Knowledge vault: a web-scale approach to probabilistic knowledge fusion 2014
 - [ ] Open domain event extraction from twitter 2012
