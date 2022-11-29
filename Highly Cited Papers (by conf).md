@@ -386,30 +386,50 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 141	2013
 
 ## ENNLP
+### 2017-2022 top-20
 - [ ] Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks 2019
 - [ ] Supervised Learning of Universal Sentence Representations from Natural Language Inference Data 2017
+- [ ] SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing. 2018
+- [ ] SciBERT: A Pretrained Language Model for Scientific Text 2019
 - [ ] Adversarial Examples for Evaluating Reading Comprehension Systems 2017
 - [ ] Transformers: State-of-the-Art Natural Language Processing. 2020
 - [ ] Language Models as Knowledge Bases? 2019
-- [ ] Dense Passage Retrieval for Open-Domain Question Answering 2019
-- [ ] Glove: Global Vectors for Word Representation. 2014
-- [ ] SQuAD: 100,000+ Questions for Machine Comprehension of Text 2016
-- [ ] Effective Approaches to Attention-based Neural Machine Translation 2015
-- [ ] Dense Passage Retrieval for Open-Domain Question Answering 2020
-- [ ] TinyBERT: Distilling BERT for Natural Language Understanding 2020
-- [ ] SciBERT: A Pretrained Language Model for Scientific Text 2019
 - [ ] LXMERT: Learning Cross-Modality Encoder Representations from Transformers 2019
+- [ ] Adversarial Learning for Neural Dialogue Generation 2017
 - [ ] EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks 2019
 - [ ] HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering 2018
 - [ ] Text Summarization with Pretrained Encoders 2019
+- [ ] Language Models as Knowledge Bases? 2019
 - [ ] Understanding Back-Translation at Scale 2018
-- [ ] RACE: Large-scale ReAding Comprehension Dataset From Examinations 20117
+- [ ] RACE: Large-scale ReAding Comprehension Dataset From Examinations 2017
 - [ ] End-to-end Neural Coreference Resolution 2017
 - [ ] Universal Sentence Encoder for English. 2018
-- [ ] Attention-based LSTM for Aspect-level Sentiment Classification 2016
-- [ ] Deep Reinforcement Learning for Dialogue Generation 2016
-- [ ] How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation 2016
-- [ ] Long Short-Term Memory-Networks for Machine Reading 2016
+- [ ] Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling 2017
+- [ ] Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm 2017
+- [ ] MultiWOZ-A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling 2018
+- [ ] TinyBERT: Distilling BERT for Natural Language Understanding. 2020
+
+### 2014-2017 top-10
+- [ ] Glove: Global Vectors for Word Representation. 2014
+- [ ] Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation. 2014
+- [ ] Convolutional Neural Networks for Sentence Classification. 2014
+- [ ] Semantic Compositionality through Recursive Matrix-Vector Spaces. 2012
+- [ ] A Fast and Accurate Dependency Parser using Neural Networks. 2014
+- [ ] Recurrent Continuous Translation Models. 2013
+- [ ] Semantic Parsing on Freebase from Question-Answer Pairs. 2013
+- [ ] Effective Approaches to Attention-based Neural Machine Translation. 2015
+- [ ] Open Language Learning for Information Extraction. 2012
+- [ ] Multi-instance Multi-label Learning for Relation Extraction. 2012
+- [ ] A Neural Attention Model for Abstractive Sentence Summarization. 2015
+- [ ] Bilingual Word Embeddings for Phrase-Based Machine Translation. 2013
+- [ ] A Transition-Based System for Joint Part-of-Speech Tagging and Labeled Non-Projective Dependency Parsing. 2012
+- [ ] PATTY: A Taxonomy of Relational Patterns with Semantic Types. 2012
+- [ ] A large annotated corpus for learning natural language inference. 2015
+- [ ] Scaling Semantic Parsers with On-the-Fly Ontology Matching. 2013
+- [ ] A Comparison of Vector-based Representations for Semantic Composition. 2012
+- [ ] Efficient Non-parametric Estimation of Multiple Embeddings per Word in Vector Space. 2014
+- [ ] A Neural Network for Factoid Question Answering over Paragraphs.
+- [ ] Question Answering with Subgraph Embeddings. 2014
 
 
 ## AAAI
