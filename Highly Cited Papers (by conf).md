@@ -478,6 +478,7 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 
 
 ## NIPS
+### 2017-2022 top 20
 - [ ] Attention is all you need 2017
 - [ ] PyTorch: an imperative style, high-performance deep learning library 2019
 - [ ] A unified approach to interpreting model predictions 2017
@@ -574,6 +575,7 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 - [ ] Structure and dynamics of information pathways in online media 2013
 
 ## KDD
+### 2017-2022 top 20
 - [ ] Graph Convolutional Neural Networks for Web-Scale Recommender Systems 2018
 - [ ] metapath2vec: Scalable Representation Learning for Heterogeneous Networks 2017
 - [ ] Optuna: A Next-generation Hyperparameter Optimization Framework 2019
@@ -594,14 +596,28 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 - [ ] Local Higher-Order Graph Clustering 2017
 - [ ] Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding 2018
 - [ ] Patient Subtyping via Time-Aware LSTM Networks 2017
-- [ ] XGBoost: A Scalable Tree Boosting System 2016
-- [ ] DeepWalk: online learning of social representations 2014
+ 
+ ### 2012-2017 top-20
+- [ ] Discovering regions of different functions in a city using human mobility and POIs 2012
 - [ ] Knowledge vault: a web-scale approach to probabilistic knowledge fusion 2014
-- [ ] node2vec: Scalable Feature Learning for Networks 2016
-- [ ] Why Should I Trust You?: Explaining the Predictions of Any Classifier 2016
-- [ ] U-Air: when urban air quality inference meets big data 2013
+- [ ] Open domain event extraction from twitter 2012
+- [ ] Searching and mining trillions of time series subsequences under dynamic time warping 2012
+- [ ] Information diffusion and external influence in networks 2012
+- [ ] DeepWalk: online learning of social representations 2014
 - [ ] Auto-WEKA: combined selection and hyperparameter optimization of classification algorithms 2013
-- [ ] Collaborative Deep Learning for Recommender Systems 2015
+- [ ] U-Air: when urban air quality inference meets big data 2013
+- [ ] XGBoost: A Scalable Tree Boosting System 2016
+- [ ] Circle-based recommendation in online social networks 2012
+- [ ] Streaming graph partitioning for large distributed graphs 2012
+- [ ] Towards social user profiling: unified and discriminative influence model for inferring home locations 2012
+- [ ] Constructing popular routes from uncertain trajectories 2012
+- [ ] Discovering value from community activity on focused question answering sites: a case study of stack overflow 2012
+- [ ] Ad click prediction: a view from the trenches 2013
+- [ ] Rise and fall patterns of information diffusion: model and implications 2012
+- [ ] Review spam detection via temporal pattern discovery 2012
+- [ ] Learning geographical preferences for point-of-interest recommendation 2013
+- [ ] MoodLens: an emoticon-based sentiment analysis system for chinese tweets 2012
+- [ ] LCARS: a location-content-aware recommender system 2013
 
 
 
