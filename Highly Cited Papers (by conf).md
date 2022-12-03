@@ -622,7 +622,7 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 - [ ] Local Higher-Order Graph Clustering 2017
 - [ ] Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding 2018
 - [ ] Patient Subtyping via Time-Aware LSTM Networks 2017
- 
+
  ### [2012-2017](https://scholar.google.com/citations?hl=en&vq=eng_datamininganalysis&view_op=list_hcore&venue=DxPOk84pRIIJ.2017) top-20
 - [ ] Discovering regions of different functions in a city using human mobility and POIs 2012
 - [ ] Knowledge vault: a web-scale approach to probabilistic knowledge fusion 2014
@@ -714,7 +714,7 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 - [ ] Deep learning with differential privacy,2016,1491
 - [ ] Practical black-box attacks against machine learning,2017,1380
 - [ ] Making smart contracts smarter,2016,996
-- [ ] Privacy-preserving deep learning,2015,941
+- [x] Privacy-preserving deep learning,2015,941
 - [ ] Model inversion attacks that exploit confidence information and basic countermeasures,2015,900
 - [ ] Practical secure aggregation for privacy-preserving machine learning,2017,837
 - [ ] On the security and performance of Proof of Work blockchains,2016,795
