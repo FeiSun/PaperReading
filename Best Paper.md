@@ -120,7 +120,7 @@
 - [ ] RxNet: Rx-refill Graph Neural Network for Overprescribing Detection, 2021
 - [ ] Do People and Neural Nets Pay Attention to the Same Words: Studying Eye-tracking Data for Non-factoid QA Evaluation, 2020
 - [ ] FANG: Leveraging Social Context for Fake News Detection Using Graph Representation, 2020
-- [ ] AutoGRD: Model Recommendation Through Graphical Dataset Representation, 2019
+- [x] AutoGRD: Model Recommendation Through Graphical Dataset Representation, 2019
 - [ ] Relevance estimation with multiple information sources on search engine result pages, 2018
 - [ ] Hike: A Hybrid Human-Machine Method for Entity Alignment in Large-Scale Knowledge Bases, 2017
 - [ ] Vandalism Detection in Wikidata, 2016
