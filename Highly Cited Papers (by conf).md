@@ -629,7 +629,7 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 - [ ] Open domain event extraction from twitter 2012
 - [ ] Searching and mining trillions of time series subsequences under dynamic time warping 2012
 - [ ] Information diffusion and external influence in networks 2012
-- [ ] DeepWalk: online learning of social representations 2014
+- [x] DeepWalk: online learning of social representations 2014
 - [ ] Auto-WEKA: combined selection and hyperparameter optimization of classification algorithms 2013
 - [ ] U-Air: when urban air quality inference meets big data 2013
 - [ ] XGBoost: A Scalable Tree Boosting System 2016

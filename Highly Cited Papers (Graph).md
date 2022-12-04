@@ -26,7 +26,7 @@
 - [ ] [metapath2vec: Scalable Representation Learning for Heterogeneous Networks](https://scholar.google.com/scholar?oi=bibs&cluster=4626695118921633560&btnI=1&hl=en)           cited: 1649          year: 2017
 - [ ] [struc2vec: Learning Node Representations from Structural Identity](https://scholar.google.com/scholar?oi=bibs&cluster=5501171254760871939&btnI=1&hl=en)           cited: 994          year: 2017
 - [ ] [Heterogeneous Graph Neural Network](https://scholar.google.com/scholar?oi=bibs&cluster=1624805435605691117&btnI=1&hl=en)           cited: 641          year: 2019
-- [ ] [DeepWalk: online learning of social representations](https://scholar.google.com/scholar?oi=bibs&cluster=12377823448928484080&btnI=1&hl=en)           cited: 8008          year: 2014
+- [x] [DeepWalk: online learning of social representations](https://scholar.google.com/scholar?oi=bibs&cluster=12377823448928484080&btnI=1&hl=en)           cited: 8008          year: 2014
 - [ ] [node2vec: Scalable Feature Learning for Networks](https://scholar.google.com/scholar?oi=bibs&cluster=126668957306349129&btnI=1&hl=en)           cited: 8412          year: 2016
 - [ ] (SDNE) [Structural Deep Network Embedding](https://scholar.google.com/scholar?oi=bibs&cluster=8610745914304154694&btnI=1&hl=en)           cited: 2430          year: 2016
 - [ ] [Deep Graph Kernels](https://scholar.google.com/scholar?oi=bibs&cluster=15402908290466620014&btnI=1&hl=en)           cited: 948          year: 2015
