@@ -489,7 +489,7 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 - [ ] XLNet: generalized autoregressive pretraining for language understanding 2019
 - [ ] LightGBM: a highly efficient gradient boosting decision tree 2017
 - [ ] Prototypical networks for few-shot learning
-- [ ] Language models are few-shot learners 2020
+- [x] Language models are few-shot learners 2020
 - [ ] Dynamic routing between capsules 2017
 - [ ] What uncertainties do we need in Bayesian deep learning for computer vision? 2017
 - [ ] Simple and scalable predictive uncertainty estimation using deep ensembles 2017
