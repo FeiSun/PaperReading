@@ -113,7 +113,7 @@
 - [ ] [DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning](https://scholar.google.com/scholar?oi=bibs&cluster=13678530289575738006&btnI=1&hl=en)             cited: 486            year: 2017
 - [ ] [TuckER: Tensor Factorization for Knowledge Graph Completion](https://scholar.google.com/scholar?oi=bibs&cluster=1135830429750095715&btnI=1&hl=en)             cited: 464            year: 2019
 - [ ] [Cross-lingual Knowledge Graph Alignment via Graph Convolutional Networks](https://scholar.google.com/scholar?oi=bibs&cluster=14667566472477810652&btnI=1&hl=en)             cited: 322            year: 2018
-- [ ] [KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning](https://scholar.google.com/scholar?oi=bibs&cluster=14433785585883556490&btnI=1&hl=en)             cited: 269            year: 2019
+- [x] [KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning](https://scholar.google.com/scholar?oi=bibs&cluster=14433785585883556490&btnI=1&hl=en)             cited: 269            year: 2019
 - [ ] [OpenKE: An Open Toolkit for Knowledge Embedding](https://scholar.google.com/scholar?oi=bibs&cluster=16856033401208063956&btnI=1&hl=en)             cited: 272            year: 2018
 
 ### NIPS
