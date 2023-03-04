@@ -73,7 +73,7 @@ P Badjatiya, S Gupta, M Gupta, V Varma
 852	2017
 - [ ] Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment.
 826	2017
-- [ ] Graph Neural Networks for Social Recommendation.
+- [x] Graph Neural Networks for Social Recommendation.
 675	2019
 - [ ] Variational Autoencoders for Collaborative Filtering.
 648	2018
