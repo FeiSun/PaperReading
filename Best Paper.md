@@ -91,7 +91,7 @@
 - [ ] Fast and Memory-Efficient Tucker Decomposition for Answering Diverse Time Range Queries, 2021
 - [ ] On Sampled Metrics for Item Recommendation, 2020
 - [ ] Optimizing Impression Counts for Outdoor Advertising, 2019
-- [ ] Adversarial Attacks on Neural Networks for Graph Data, 2018
+- [x] Adversarial Attacks on Neural Networks for Graph Data, 2018
 - [ ] Accelerating Innovation Through Analogy Mining, 2017
 - [ ] FRAUDAR: Bounding Graph Fraud in the Face of Camouflage, 2016
 - [ ] Efficient Algorithms for Public-Private Social Networks, 2015
